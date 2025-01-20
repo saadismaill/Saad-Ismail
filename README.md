@@ -16,9 +16,6 @@ I am a full-stack and MERN stack developer with skills in HTML, CSS, JavaScript,
 
 
 
-## 📈 GitHub Stats
-
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadismaill&show_icons=true&theme=radical)
 
 
 
